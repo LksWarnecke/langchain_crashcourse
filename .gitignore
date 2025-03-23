@@ -1,0 +1,52 @@
+.venv/
+.env
+.DS_Store
+.venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# User-specific and system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+
+# Logs and database
+*.log
+*.sqlite3
+*.db
+
+# Python environment files
+Pipfile
+Pipfile.lock
+poetry.lock
+requirements.txt
+
+# Environment variables
+.env
+.env.local
+.env.test
+.env.production
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/
